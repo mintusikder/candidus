@@ -1,0 +1,19 @@
+:root {
+    --black: #1c1c1c;
+    --gray: #919191;
+    --light-gray: #ebebeb;
+    --hot-pink: #ff214f;
+    --primary-font: "Roboto", sans-serif;
+  }
+  
+  body {
+    background-color: var(--light-gray);
+    font-family: var(--primary-font);
+  }
+  
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
